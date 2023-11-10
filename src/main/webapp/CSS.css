@@ -1,1 +1,12 @@
 @charset "UTF-8";
+
+.tabla{
+	border: solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.celda{
+	border-collapse: collapse;
+	border: solid black;
+}

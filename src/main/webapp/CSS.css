@@ -21,35 +21,51 @@
 }
 .celda__tit{
 	text-align: center;
-	color: red;
+	background-color: purple;
 }
 .celda__a{
 	background-color: green;
 	border-collapse: collapse;
 	border: solid black;
+	text-align: center;
 }
 .celda__1{
 	background-color: yellow;
 	border-collapse: collapse;
 	border: solid black;
+	text-align: center;
 }
 .sepa{
 	 margin-top: 3rem;
 	 margin-bottom: 3rem;
+	 text-align: center;
 }
 .celda__2{
 	background-color: orange;
-	border-collapse: collapse;
-	border: solid black;
+	text-align: center;
+	
 	
 }
-.celda__b{
-	background-color: red;
-	border-collapse: collapse;
-	border: solid black;
-	}
 	.celda__3{
 	background-color: orange;
 	border-collapse: collapse;
 	border: solid black;
-	color: yellow;
+	color: purple;
+	text-align: center;
+}
+	.celda__b{
+	color: red;
+	border-collapse: collapse;
+	border: solid black;
+	background-color: pink;
+	text-align: center;
+	}
+	.tit{
+		text-align: center;
+	color: white;
+	background-color: rgb(0, 0, 0);
+	font-size: 2rem;
+	margin-bottom: 1rem;
+		
+	}
+

@@ -1,12 +1,55 @@
 @charset "UTF-8";
 
 .tabla{
-	border: solid black;
+	border: solid black 1px;
 	border-collapse: collapse;
 	width: 100%;
+	
+}
+.borde{
+	border:  solid black 1px;
+}
+.dis{
+	display: block;
+	overflow: scroll;
 }
 
 .celda{
 	border-collapse: collapse;
 	border: solid black;
+	background-color: lightblue;
 }
+.celda__tit{
+	text-align: center;
+	color: red;
+}
+.celda__a{
+	background-color: green;
+	border-collapse: collapse;
+	border: solid black;
+}
+.celda__1{
+	background-color: yellow;
+	border-collapse: collapse;
+	border: solid black;
+}
+.sepa{
+	 margin-top: 3rem;
+	 margin-bottom: 3rem;
+}
+.celda__2{
+	background-color: orange;
+	border-collapse: collapse;
+	border: solid black;
+	
+}
+.celda__b{
+	background-color: red;
+	border-collapse: collapse;
+	border: solid black;
+	}
+	.celda__3{
+	background-color: orange;
+	border-collapse: collapse;
+	border: solid black;
+	color: yellow;

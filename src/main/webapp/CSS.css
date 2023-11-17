@@ -13,7 +13,8 @@
 .dis{
 	display: block;
 	overflow: scroll;
-	
+	width: 20 rem;
+	height: 16rem;
 	border: 1px;
 }
 

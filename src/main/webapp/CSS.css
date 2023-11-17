@@ -3,8 +3,8 @@
 .tabla{
 	border: solid black 1px;
 	border-collapse: collapse;
-	width: 15 rem;
-	height: 15rem;
+	width: 20 rem;
+	height: 16rem;
 	
 }
 .borde{
@@ -13,8 +13,7 @@
 .dis{
 	display: block;
 	overflow: scroll;
-	height: 10rem;
-	width: 10rem;
+	
 	border: 1px;
 }
 
